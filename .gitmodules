@@ -1,3 +1,6 @@
 [submodule "deps/nanovg"]
 	path = deps/nanovg
 	url = git@github.com:memononen/nanovg.git
+[submodule "deps/cpr"]
+	path = deps/cpr
+	url = git@github.com:whoshuu/cpr.git
